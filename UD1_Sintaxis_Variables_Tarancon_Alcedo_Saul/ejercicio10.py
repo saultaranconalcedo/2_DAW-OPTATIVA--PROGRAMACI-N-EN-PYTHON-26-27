@@ -11,3 +11,4 @@ print("(-2) elevado a 4:", potencia4)
 print("(-2) elevado a 5:", potencia5)
 print("Con exponente par, los signos negativos se multiplican en pares y el resultado es positivo.")
 print("Con exponente impar, queda un factor negativo y el resultado es negativo.")
+

@@ -8,3 +8,5 @@ print("10 ^ 7 =", resultado2)
 print("12 ^ 12 =", resultado3)
 print("15 ^ 0 =", resultado4)
 print("XOR entre un numero y si mismo da cero porque todos sus bits coinciden.")
+
+# da cero porque al comparar los mismos bits se devuelve 0 cuando son iguales

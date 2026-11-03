@@ -12,3 +12,5 @@ print("20 / (4 + 1) =", resultado4)
 print("2 ** 3 * 4 =", resultado5)
 print("2 ** (3 * 2) =", resultado6)
 print("Los parentesis agrupan operaciones y hacen que se calculen antes que las operaciones externas.")
+
+# los parentesis cambian la prioridad haciendo que se haga antes la suma que la multiplicacion
